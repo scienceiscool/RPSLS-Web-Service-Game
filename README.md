@@ -1,5 +1,4 @@
-# CPSC 473: Web Programming & Data Management<br>
-HW 4: Rock Paper Scissors Lizard Spock Game - Web Service<br>
+# Rock Paper Scissors Lizard Spock Game - Web Service<br>
 
 Status: Almost working, output isn't exactly correct - but it runs! That's a good start.<br>
 Last updated: 3-19-2015<br>
