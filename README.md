@@ -1,4 +1,4 @@
-# Rock Paper Scissors Lizard Spock Game - Web Service<br>
+# Rock Paper Scissors Lizard Spock Game<br>
 
 Status: Almost working, output isn't exactly correct - but it runs! That's a good start.<br>
 Last updated: 3-19-2015<br>
