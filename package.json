@@ -1,0 +1,11 @@
+{
+  "name": "hw5",
+  "version": "0.0.0",
+  "description": "Rock paper scissors lizard spock Web service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kathy Saad <kathysaad@gmail.com>",
+  "license": "BSD-2-Clause"
+}
