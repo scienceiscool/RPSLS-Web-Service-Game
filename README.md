@@ -7,8 +7,6 @@ __Description:__ In this homework assignment, you will build the server-side of 
 
 __Status:__ Almost working, output isn't exactly correct - but it runs! Needs debugging.<br>
 
-__Sample Run:__ (Will come back to this)
-
 Inspiration for package.json came from<br> <http://www.lynda.com/JavaScript-tutorials/Initializing-Nodejs-projects/141132/152175-4.html><br>
 
 _Terminal 1_
