@@ -1,11 +1,11 @@
-//Node.JS API Documentation
-//https://nodejs.org/api/http.html
+// Node.JS API Documentation
+// https://nodejs.org/api/http.html
 
-//I looked at the nudge.js file from a previous homework for inspiration:
-//https://gist.github.com/ProfAvery/3358aafcebcb57258f03#file-nudge-js
+// I looked at the nudge.js file from a previous homework for inspiration:
+// https://gist.github.com/ProfAvery/3358aafcebcb57258f03#file-nudge-js
 
-//To learn about the game's rules I went to:
-//http://www.samkass.com/theories/RPSSL.html
+// To learn about the game's rules I went to:
+// http://www.samkass.com/theories/RPSSL.html
 
 //#!/kathy/bin/env node
 
