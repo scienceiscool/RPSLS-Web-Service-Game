@@ -1,7 +1,7 @@
 #CPSC 473 - Web Programming & Data Management
 ##Rock Paper Scissors Lizard Spock Game
 
-__Last updated:__ 3-19-2015<br>
+__Last updated:__ 3-24-2015<br>
 
 __Description:__ In this homework assignment, you will build the server-side of a web application to play Rock, Paper, Scissors, Lizard, Spock. Use Node.js to implement a Web Service API with the characteristics listed below.  Your program must use only the standard Node.js API.  Do not use any third-party modules, including Express.<br>
 
