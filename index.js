@@ -14,7 +14,7 @@
 function getRandomArbitrary(min, max) {
 	/*I found out about the following random function call from:
 	https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random*/
-	return Math.random() * (max - min) + min; // Math is a built-in Javascript object
+	return Math.floor(Math.random() * (max - min + 1)) + min; // Math is a built-in Javascript object
 }
 
 var http = require("http"),
@@ -145,7 +145,7 @@ var server = http.createServer( function (req, res) {
 
 			req.on("end", function () {
 				//console.log("Handling the input");
-				res.writeHead(200, {"Content-Type": "text/plain"});
+				res.writeHead(200, {"Content-Type": "application/json"});
 
 				//res.write("Handling it");
 
@@ -206,7 +206,7 @@ var server = http.createServer( function (req, res) {
 
 			req.on("end", function () {
 				//console.log("Handling the input");
-				res.writeHead(200, {"Content-Type": "text/plain"});
+				res.writeHead(200, {"Content-Type": "application/json"});
 
 				//res.write("Handling it");
 
@@ -268,7 +268,7 @@ var server = http.createServer( function (req, res) {
 
 			req.on("end", function () {
 				//console.log("Handling the input");
-				res.writeHead(200, {"Content-Type": "text/plain"});
+				res.writeHead(200, {"Content-Type": "application/json"});
 				
 				//res.write("Handling it");
 
@@ -330,7 +330,7 @@ var server = http.createServer( function (req, res) {
 
 			req.on("end", function () {
 				//console.log("Handling the input");
-				res.writeHead(200, {"Content-Type": "text/plain"});
+				res.writeHead(200, {"Content-Type": "application/json"});
 				
 				//res.write("Handling it");
 
