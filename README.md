@@ -6,7 +6,7 @@ __Prompt:__ Build the server-side of a web application to play Rock, Paper, Scis
 __Status:__ Almost working, output isn't exactly correct - but it runs! Needs debugging.<br>
 
 Reference for package.json<br>
-- <a href="http://www.lynda.com/JavaScript-tutorials/Initializing-Nodejs-projects/141132/152175-4.html">Lynda.com > JavaScript Tutorials > Initializing Nodejs Projects</a>
+- <a href="http://www.lynda.com/JavaScript-tutorials/Initializing-Nodejs-projects/141132/152175-4.html">Lynda > JavaScript Tutorials > Initializing Nodejs Projects</a>
 
 _Terminal 1_
 
